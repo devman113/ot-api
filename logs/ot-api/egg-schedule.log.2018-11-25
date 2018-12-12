@@ -1,0 +1,14 @@
+2018-11-25 22:05:32,408 INFO 678 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-26 00:00:00.000
+2018-11-25 22:05:32,409 INFO 678 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-26 00:00:01.000
+2018-11-25 23:28:36,740 INFO 1189 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-26 00:00:00.000
+2018-11-25 23:28:36,741 INFO 1189 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-26 00:00:01.000
+2018-11-26 00:00:00,022 INFO 1190 [15432084000217603707245195] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js task received by app
+2018-11-26 00:00:00,023 INFO 1190 [15432084000217603707245195] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2018-11-26 00:00:00,025 INFO 1190 [15432084000217603707245195] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 2ms
+2018-11-26 00:00:00,022 INFO 1189 [15432084000217603707245195] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-11-26 00:00:00,024 INFO 1189 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-27 00:00:00.000
+2018-11-26 00:00:01,015 INFO 1190 [15432084010147604700081892] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-11-26 00:00:01,015 INFO 1190 [15432084010147604700081892] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-11-26 00:00:01,018 INFO 1190 [15432084010147604700081892] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 3ms
+2018-11-26 00:00:01,014 INFO 1189 [15432084010147604700081892] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-11-26 00:00:01,016 INFO 1189 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-27 00:00:01.000

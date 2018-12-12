@@ -1,0 +1,10 @@
+2018-11-26 02:59:31,038 INFO 3185 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-27 00:00:00.000
+2018-11-26 02:59:31,039 INFO 3185 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-27 00:00:01.000
+2018-11-29 03:35:38,179 INFO 39039 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-30 00:00:00.000
+2018-11-29 03:35:38,181 INFO 39039 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-30 00:00:01.000
+2018-11-29 03:35:47,629 INFO 39051 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-30 00:00:00.000
+2018-11-29 03:35:47,630 INFO 39051 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-30 00:00:01.000
+2018-11-29 14:49:46,324 INFO 53954 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-30 00:00:00.000
+2018-11-29 14:49:46,325 INFO 53954 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-30 00:00:01.000
+2018-12-03 04:36:40,899 INFO 1969 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-04 00:00:00.000
+2018-12-03 04:36:40,900 INFO 1969 [Timer] /Volumes/Repos/paul-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-04 00:00:01.000

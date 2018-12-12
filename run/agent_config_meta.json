@@ -1,0 +1,302 @@
+{
+  "keys": "/Volumes/Repos/paul-backend/config/config.default.js",
+  "ota": {
+    "serverUrl": "/Volumes/Repos/paul-backend/config/config.default.js",
+    "instanceKey": "/Volumes/Repos/paul-backend/config/config.default.js"
+  },
+  "translate": {
+    "projectId": "/Volumes/Repos/paul-backend/config/config.default.js",
+    "key": "/Volumes/Repos/paul-backend/config/config.default.js"
+  },
+  "convert": {
+    "access_key": "/Volumes/Repos/paul-backend/config/config.default.js"
+  },
+  "middleware": "/Volumes/Repos/paul-backend/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Volumes/Repos/paul-backend/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Volumes/Repos/paul-backend/config/config.default.js"
+    },
+    "root": "/Volumes/Repos/paul-backend/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/Repos/paul-backend/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Volumes/Repos/paul-backend/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Volumes/Repos/paul-backend/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/Repos/paul-backend/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/Repos/paul-backend/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/Repos/paul-backend/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Volumes/Repos/paul-backend/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Volumes/Repos/paul-backend/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Volumes/Repos/paul-backend/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Volumes/Repos/paul-backend/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/Repos/paul-backend/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/Repos/paul-backend/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/Repos/paul-backend/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/Repos/paul-backend/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/Repos/paul-backend/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/Repos/paul-backend/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/Repos/paul-backend/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/Repos/paul-backend/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/Repos/paul-backend/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Volumes/Repos/paul-backend/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/Repos/paul-backend/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/Repos/paul-backend/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/Repos/paul-backend/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/Repos/paul-backend/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/Repos/paul-backend/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Volumes/Repos/paul-backend/node_modules/egg-static/config/config.prod.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Volumes/Repos/paul-backend/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Volumes/Repos/paul-backend/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Volumes/Repos/paul-backend/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Volumes/Repos/paul-backend/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Volumes/Repos/paul-backend/node_modules/egg-view-nunjucks/config/config.default.js"
+  },
+  "env": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "proxy": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "private": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "@google-cloud/translate": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "xml2js": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "cz-conventional-changelog": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "eslint": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "stop": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "dev": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "debug": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "test": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "test-local": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "cov": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "lint": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "ci": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "autod": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "url": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "config": {
+      "commitizen": {
+        "path": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "level": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/Repos/paul-backend/node_modules/egg/config/config.default.js"
+}

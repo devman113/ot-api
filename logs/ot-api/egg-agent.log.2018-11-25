@@ -1,0 +1,20 @@
+2018-11-25 22:05:31,307 INFO 678 [egg:logger] init all loggers with options: {"dir":"/Volumes/Repos/paul-backend/logs/ot-api","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ot-api-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-11-25 22:05:31,398 INFO 678 [egg:core] dump config after load, 4ms
+2018-11-25 22:05:31,444 INFO 678 [egg-watcher] Start watching: ["/Volumes/Repos/paul-backend/app","/Volumes/Repos/paul-backend/config","/Volumes/Repos/paul-backend/mocks","/Volumes/Repos/paul-backend/mocks_proxy","/Volumes/Repos/paul-backend/app.js"]
+2018-11-25 22:05:31,444 INFO 678 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/app"
+2018-11-25 22:05:31,445 INFO 678 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/config"
+2018-11-25 22:05:31,445 INFO 678 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/mocks"
+2018-11-25 22:05:31,445 INFO 678 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/mocks_proxy"
+2018-11-25 22:05:31,445 INFO 678 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/app.js"
+2018-11-25 22:05:31,445 INFO 678 [egg-watcher:agent] watcher start success
+2018-11-25 22:05:31,477 INFO 678 [egg:core] dump config after ready, 5ms
+2018-11-25 23:28:34,316 INFO 1189 [egg:logger] init all loggers with options: {"dir":"/Volumes/Repos/paul-backend/logs/ot-api","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ot-api-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-11-25 23:28:34,490 INFO 1189 [egg:core] dump config after load, 4ms
+2018-11-25 23:28:34,572 INFO 1189 [egg-watcher] Start watching: ["/Volumes/Repos/paul-backend/app","/Volumes/Repos/paul-backend/config","/Volumes/Repos/paul-backend/mocks","/Volumes/Repos/paul-backend/mocks_proxy","/Volumes/Repos/paul-backend/app.js"]
+2018-11-25 23:28:34,572 INFO 1189 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/app"
+2018-11-25 23:28:34,572 INFO 1189 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/config"
+2018-11-25 23:28:34,572 INFO 1189 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/mocks"
+2018-11-25 23:28:34,572 INFO 1189 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/mocks_proxy"
+2018-11-25 23:28:34,573 INFO 1189 [egg-watcher] Start watching: "/Volumes/Repos/paul-backend/app.js"
+2018-11-25 23:28:34,573 INFO 1189 [egg-watcher:agent] watcher start success
+2018-11-25 23:28:34,593 INFO 1189 [egg:core] dump config after ready, 3ms
