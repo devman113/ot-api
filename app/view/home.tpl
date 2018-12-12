@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>OT Key Demo</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body>
     <h4>It is OT Key API Demo</h4>
